@@ -1,0 +1,16 @@
+{
+  "name": "2queue2manager",
+  "version": "1.0.0",
+  "description": "A queue manager for 2b2t Minecraft server.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "2b2b",
+    "Minecraft",
+    "queue"
+  ],
+  "author": "Gabriele Maurina",
+  "license": "MIT"
+}
