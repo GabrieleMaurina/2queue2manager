@@ -6,11 +6,23 @@
   "scripts": {
     "test": "node main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrieleMaurina/2queue2manager.git"
+  },
   "keywords": [
-    "2b2b",
+    "2b2t",
     "Minecraft",
     "queue"
   ],
   "author": "Gabriele Maurina",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrieleMaurina/2queue2manager/issues"
+  },
+  "homepage": "https://github.com/GabrieleMaurina/2queue2manager#readme",
+  "dependencies": {
+    "minecraft-protocol": "^1.16.0",
+    "prismarine-tokens-fixed": "^1.1.2"
+  }
 }
